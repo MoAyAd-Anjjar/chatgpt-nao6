@@ -1,0 +1,17 @@
+book_id;title;author_id;category_id;genre;publication_year;location;recommendation;description;availability
+1;The Great Gatsby;1;1;Classic;1925;F1S3SH3;Recommended: Pride and Prejudice, The Catcher in the Rye, The Hobbit;A tale of love and the American Dream.;Available
+2;To Kill a Mockingbird;2;2;Drama;1960;F1S3SH2;Recommended: The Shining, Brave New World, Introduction to Mathematics;A powerful exploration of racial injustice.;Available
+3;1984;3;3;Dystopian;1949;F1S3SH4C;Recommended: Brave New World, The Lord of the Rings, The Da Vinci Code;A chilling vision of a totalitarian future.;Available
+4;Pride and Prejudice;4;4;Romance;1813;F1S3SH2;Recommended: The Great Gatsby, The Catcher in the Rye, The Hobbit;A timeless love story with social commentary.;Unavailable
+5;The Catcher in the Rye;5;5;Coming-of-age;1951;F1S3SH4;Recommended: The Great Gatsby, The Hobbit, The Shining;A classic tale of teenage angst and rebellion.;Available
+6;The Hobbit;6;6;Fantasy;1937;F1S3SH4;Recommended: The Lord of the Rings, The Great Gatsby, The Da Vinci Code;An adventurous journey through Middle-earth.;Available
+7;Brave New World;7;3;Dystopian;1932;F1S3SH4;Recommended: 1984, The Lord of the Rings, The Da Vinci Code;An exploration of a future dystopian society.;Unavailable
+8;The Lord of the Rings;8;6;Fantasy;1954;F1S3SH4;Recommended: The Hobbit, The Great Gatsby, The Da Vinci Code;An epic fantasy trilogy.;Available
+9;The Da Vinci Code;9;9;Mystery;2003;F1S3SH4;Recommended: The Lord of the Rings, 1984, The Shining;A gripping mystery involving art and symbolism.;Available
+10;The Shining;10;7;Horror;1977;F1S3SH4;Recommended: To Kill a Mockingbird, The Catcher in the Rye, Introduction to Mathematics;A psychological horror novel set in an isolated hotel.;Available
+11;Introduction to Mathematics;11;8;Math;2020;F1S3SH4;Recommended: Linear Algebra Essentials, The Art of Coding, Programming 101;A comprehensive introduction to mathematical concepts.;Available
+12;Arabic Literature Anthology;12;10;Arabic;2015;F1S3SH4;Recommended: Arabic Language Basics, Pride and Prejudice, To Kill a Mockingbird;A collection of classic Arabic literature.;Available
+13;Programming 101;13;9;Programming;2018;F1S3SH4;Recommended: The Art of Coding, Introduction to Mathematics, Linear Algebra Essentials;A beginner’s guide to programming.;Available
+14;Linear Algebra Essentials;14;8;Math;2019;F1S3SH4;Recommended: Introduction to Mathematics, The Art of Coding, Programming 101;Key concepts and applications of linear algebra.;Available
+15;The Art of Coding;15;9;Programming;2022;F1S3SH4;Recommended: Programming 101, Linear Algebra Essentials, Introduction to Mathematics;Exploring the artistic side of programming.;Available
+16;Arabic Language Basics;10;10;Arabic;2017;F1S3SH4;Recommended: Arabic Literature Anthology, Pride and Prejudice, To Kill a Mockingbird;A beginner’s guide to the Arabic language.;Available

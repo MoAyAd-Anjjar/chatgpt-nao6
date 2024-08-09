@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.0.0" uuid="fullchat-c940a2" installOnlyAtStartup="false">
+ <names>
+  <name lang="en_US">fullchat</name>
+ </names>
+ <supportedLanguages>
+  <language>ar_SA</language>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>ar_SA</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="midspeech">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="longspeech">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="samllspeechs">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="led-sound">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+ <requirements>
+  <naoqiRequirement/>
+  <robotRequirement/>
+ </requirements>
+</package>
