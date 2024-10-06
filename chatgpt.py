@@ -30,7 +30,7 @@ on_off = "chaton"
 query = None
 def change_db():
        
-        API_KEY = 'hL_UnJalHJE_LR8J_JuP_NHi-z8g0tAaGWrwx8znvsGByfcD-DN9NQ'
+        API_KEY = 'hL_UnJalHJE_LJ_JuP_NHi-z8g0tAaGWrwx8znvsGByfcD-DN9NQ'
         # The owner of the database to query
         DB_OWNER = 'moayadanjjar8'
         # The name of the database
