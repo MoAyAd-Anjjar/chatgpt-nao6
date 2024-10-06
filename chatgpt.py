@@ -22,7 +22,7 @@ import speech_recognition as sr
 # Suppress warnings about deprecations
 warnings.filterwarnings("ignore", category=UserWarning, module="langchain_community")
 # Set OpenAI API key
-os.environ["OPENAI_API_KEY"] = "sk-proj-AORy9VtQ7d92QpxIjObRT3BlbkFJdE15QzG0F6roDzyFeo1Y"
+os.environ["OPENAI_API_KEY"] = "AORy9VtQ7d92QpxIjObRT3BlbkFJdE15QzG0F6roDzyFeo1Y"
 
 # Enable to save to disk & reuse the model (for repeated queries on the same data)
 PERSIST = False
